@@ -1,7 +1,8 @@
 Name, interests, opportunity, website, address, phone
-ASPCA; animals,   cleaning; ,must be 18 and older to join, 350 E Erie Ave, Philadelphia, PA 19134, 1 (888) 666-2279
-cspf; food, giving out food, you'll provide items to eligible seniors, 2901 W Hunting Park Ave, Philadelphia, PA 19129 215) 223-2220
+ASPCA; animals,   cleaning; ,https://www.pspca.org/, must be 18 and older to join, 350 E Erie Ave, Philadelphia, PA 19134, 1 (888) 666-2279
+cspf; food, giving out food, you'll provide items to eligible seniors,https://www.sharefoodprogram.org/, 2901 W Hunting Park Ave, Philadelphia, PA 19129 215) 223-2220
 phillypaws; animals, community service hours, https://phillypaws.org/ , 100 N. 2nd Street (at Arch) Philadelphia, PA 19106, 215-238-9901
 St. Peter’s Food Cupboard, food, helping the hungry get the food they need, https://www.stpetersphila.org/social-justice/food-cupboard/?utm_source=teenlife, 313 Pine Street Philadelphia PA 19106, (215) 925-5968
+
 
 
